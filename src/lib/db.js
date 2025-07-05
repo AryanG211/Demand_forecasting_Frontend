@@ -1,1 +1,1 @@
-export const connectionStr = "mongodb+srv://sanketbhanuse9:1234@cluster0.x5vmuxz.mongodb.net/Deals?retryWrites=true&w=majority&appName=Cluster0";
+export const connectionStr = "";
